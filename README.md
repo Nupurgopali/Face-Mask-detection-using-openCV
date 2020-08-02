@@ -12,4 +12,7 @@ Detect in real-time if the person is wearing mask or not.
 <p> 6. I then used opencv to analyse real-time video and to make real-timeprediction if the person is wearing mask or not.</p>
 <h1>DEMO</h1>
 
+![FaceMask Detection](https://user-images.githubusercontent.com/53776611/89124703-9a0fee00-d4f6-11ea-9824-8aa545f9b5ce.gif)
+
+
 

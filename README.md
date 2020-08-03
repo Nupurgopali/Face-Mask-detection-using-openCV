@@ -13,6 +13,12 @@ Detect in real-time if the person is wearing mask or not.
 <h1>DEMO</h1>
 
 ![FaceMask Detection](https://user-images.githubusercontent.com/53776611/89124703-9a0fee00-d4f6-11ea-9824-8aa545f9b5ce.gif)
+<h1>RUN</h1>
+<p>Mask_detection.ipynb notebook contains the main code,you can you can download the notebook 
+  and run each cell and check the output.</p>
+ <p>1.model contained the saved model with best accuracy,so that you don't have to train every single time.</p>
+
+  
 
 
 
